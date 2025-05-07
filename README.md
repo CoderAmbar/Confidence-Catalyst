@@ -70,4 +70,4 @@
 ### **Conclusion**  
 **Confidence Catalyst** is a playful yet powerful tool designed to help users overcome social anxiety, improve their communication skills, and feel more confident in any social situation. Whether you need a sassy comeback, a motivational boost, or a calming retreat, this platform has everything you need to thrive in the world of social interactions. It combines humor, motivation, and practical skills to create a one-of-a-kind social coaching experience that’s both effective and fun.
 
-![Winning Certificate](./Certificate_3rd.jpeg)
+![Winning Certificate](./Certificate.jpeg)
